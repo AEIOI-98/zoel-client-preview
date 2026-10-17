@@ -1,0 +1,72 @@
+{
+  "method": "Existing approved AI-assisted studio edits, encoded as WebP for publication. No new image generation or specimen replacement.",
+  "treatment": "Black studio backgrounds, refined lighting, square 1:1 composition",
+  "assets": [
+    {
+      "name": "sapphire-front",
+      "source_png": "../zoel-studio-preview/assets/studio/sapphire-front.png",
+      "source_sha256": "4cfef04ddb3748347d30bb40e3730a9db6b345b3c48488a7ef9ed7625edef97b",
+      "published_photo": "dist/assets/studio/sapphire-front.webp",
+      "published_thumbnail": "dist/assets/studio/sapphire-front-thumb.webp",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "sapphire-side",
+      "source_png": "../zoel-studio-preview/assets/studio/sapphire-side.png",
+      "source_sha256": "4bd5aeeef4da128c6a473f109a9d4767d3996f48a4a09bb533c3bdb4a01ddecf",
+      "published_photo": "dist/assets/studio/sapphire-side.webp",
+      "published_thumbnail": "dist/assets/studio/sapphire-side-thumb.webp",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "moldavite",
+      "source_png": "../zoel-studio-preview/assets/studio/moldavite.png",
+      "source_sha256": "45b5f53d3b16c828e85a9362035bb62846d73486bda6685e6845db80dd5db0c6",
+      "published_photo": "dist/assets/studio/moldavite.webp",
+      "published_thumbnail": "dist/assets/studio/moldavite-thumb.webp",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "moldavite-in-hand",
+      "source_png": "../zoel-studio-preview/assets/studio/moldavite-in-hand.png",
+      "source_sha256": "df6d18c5588fd10257108bf7555db4f105442a7679d66c2e6e0c17045807b186",
+      "published_photo": "dist/assets/studio/moldavite-in-hand.webp",
+      "published_thumbnail": "dist/assets/studio/moldavite-in-hand-thumb.webp",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "ruby-matrix-3",
+      "source_png": "../zoel-studio-preview/assets/studio/ruby-matrix-3.png",
+      "source_sha256": "4a2aba097009b829ccbb38095177551ee1f50bb9a2cbae46bf6bdf2c5687b208",
+      "published_photo": "dist/assets/studio/ruby-matrix-3.webp",
+      "published_thumbnail": "dist/assets/studio/ruby-matrix-3-thumb.webp",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "ruby-in-matrix",
+      "source_png": "../zoel-studio-preview/assets/studio/ruby-in-matrix.png",
+      "source_sha256": "1d7ec5cfcef552512948d617a83383267b129c9ca4a7df22bdc16e50da08523b",
+      "published_photo": "dist/assets/studio/ruby-in-matrix.webp",
+      "published_thumbnail": "dist/assets/studio/ruby-in-matrix-thumb.webp",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}
